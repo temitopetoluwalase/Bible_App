@@ -1,0 +1,20 @@
+.lists {
+    color:fff;
+    width: 300px;
+    background-color: #bf07ac;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+.lists textarea{
+    padding: 10px;
+}
+
+
+.lists textarea input {
+    background-color: transparent;
+    border: 0;
+    color: #fff;
+    font-size: 18px;
+}

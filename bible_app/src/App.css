@@ -1,0 +1,21 @@
+body {
+  background-color: #9266ff;
+}
+
+/* Main Screen*/
+.Bible-app {
+  background-color: #3f3160;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
+
+
+/* button */
+.btn-new {
+  display: block;
+  float: right;
+  margin: 7px 10px 0 0;
+  padding: 5px 10px;
+}
+
